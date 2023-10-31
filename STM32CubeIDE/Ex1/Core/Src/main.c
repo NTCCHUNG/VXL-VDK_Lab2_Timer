@@ -66,7 +66,7 @@ static void MX_TIM2_Init(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-
+	// TO Ex 1
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
